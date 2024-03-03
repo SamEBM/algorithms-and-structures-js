@@ -1,1 +1,1 @@
-# algorithms-and-structures-js
+# Algorithms and Data Structures in JavaScript and TypeScript
